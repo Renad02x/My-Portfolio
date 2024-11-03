@@ -1,7 +1,7 @@
 # Smart Water Tank Monitoring System
 
 ## 📋 Project Overview
-This project simulates a Smart Water Tank Monitoring System using Python to address challenges in water management. The system tracks water levels, issues alerts when levels drop below 30%, and refills the tank to 80% automatically. It analyzes trends in water usage, explores how temperature impacts consumption, and provides a KPI dashboard to monitor performance metrics, such as water usage, refill frequency, and alerts.
+This project simulates a Smart Water Tank Monitoring System using Python to address challenges in water management. The system tracks water levels, issues alerts when levels drop below 30%, and refills the tank to 80% automatically. It analyzes trends in water usage, explores how temperature impacts consumption, and provides a KPI dashboard to monitor performance metrics, such as water usage and alerts.
 
 This project is particularly relevant for regions like Saudi Arabia, where efficient water management is critical due to the arid climate. The insights gained from this simulation can help users prevent water shortages, reduce waste, and manage water usage more effectively.
 
@@ -53,9 +53,9 @@ This project includes visualizations in the form of **matplotlib graphs** and **
 - Highlight days when water levels dropped below the threshold.
 - Analyze the relationship between temperature and water consumption trends.
 - Present **KPIs** such as:
-  - Water consumption per day.
-  - Total number of refills.
-  - Number of alerts issued.
+  - Average Water Usage.
+  - Average Temperature on low level days .
+  - Precentage of low level alerts.
 
 
 ## 🛠️ Technologies Used
